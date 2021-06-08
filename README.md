@@ -1,5 +1,6 @@
 # MinimumSnap-Trajectory-Generation
 ---
+This repository is work well with the mavros_controller in my repository
 Implementation of minimum snap trajectory generation for quadrotors in ROS
 
 ## 1. Prerequisites
